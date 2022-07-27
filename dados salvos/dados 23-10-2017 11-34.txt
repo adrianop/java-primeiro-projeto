@@ -1,0 +1,9 @@
+SensorRand{id=null, name=null} 4.47084088049921 
+SensorRand{id=null, name=null} 10.836784749087368 
+SensorRand{id=null, name=null} 5.565919400516754 
+SensorRand{id=null, name=null} 12.22742286728841 
+SensorRand{id=null, name=null} 14.725299319745568 
+SensorRand{id=null, name=null} 21.53389108159258 
+SensorRand{id=null, name=null} 29.072466193666273 
+SensorRand{id=null, name=null} 34.310646090372735 
+

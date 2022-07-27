@@ -1,0 +1,8 @@
+Time : 1508856109813 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 5.987747956962347 
+Time : 1508856111824 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 12.748450155798924 
+Time : 1508856113827 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 28.1960562796238 
+Time : 1508856115830 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 36.37780984944265 
+Time : 1508856117834 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 31.324830387554275 
+Time : 1508856119835 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 40.16558820733182 
+ 
+ 

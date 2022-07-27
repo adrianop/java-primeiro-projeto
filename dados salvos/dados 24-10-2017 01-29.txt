@@ -1,0 +1,29 @@
+Time : 1508858936403 SensorRand{id=SensorRand, name=energia motor 1} 3.5893842044849924 
+Time : 1508858938426 SensorRand{id=SensorRand, name=energia motor 1} 1.8228947356495029 
+Time : 1508858940426 SensorRand{id=SensorRand, name=energia motor 1} 5.072172635403685 
+Time : 1508858942440 SensorRand{id=SensorRand, name=energia motor 1} 17.76334867453499 
+Time : 1508858944442 SensorRand{id=SensorRand, name=energia motor 1} 25.00379818893297 
+Time : 1508858946454 SensorRand{id=SensorRand, name=energia motor 1} 21.826721562406817 
+Time : 1508858948456 SensorRand{id=SensorRand, name=energia motor 1} 31.434279481374453 
+Time : 1508858950463 SensorRand{id=SensorRand, name=energia motor 1} 21.78616941742245 
+Time : 1508858952481 SensorRand{id=SensorRand, name=energia motor 1} 17.557939282069945 
+Time : 1508858954491 SensorRand{id=SensorRand, name=energia motor 1} 30.231524173433506 
+Time : 1508858956493 SensorRand{id=SensorRand, name=energia motor 1} 30.14907649849669 
+Time : 1508858958507 SensorRand{id=SensorRand, name=energia motor 1} 39.30333648354383 
+Time : 1508858960519 SensorRand{id=SensorRand, name=energia motor 1} 54.983755208917536 
+Time : 1508858962533 SensorRand{id=SensorRand, name=energia motor 1} 53.72051003451905 
+Time : 1508858964537 SensorRand{id=SensorRand, name=energia motor 1} 66.73728525123555 
+Time : 1508858966563 SensorRand{id=SensorRand, name=energia motor 1} 63.6267104424188 
+Time : 1508858968564 SensorRand{id=SensorRand, name=energia motor 1} 61.95415832191787 
+Time : 1508858970567 SensorRand{id=SensorRand, name=energia motor 1} 68.32350771758053 
+Time : 1508858972569 SensorRand{id=SensorRand, name=energia motor 1} 74.72782476524183 
+Time : 1508858974574 SensorRand{id=SensorRand, name=energia motor 1} 83.02150866913733 
+Time : 1508858976577 SensorRand{id=SensorRand, name=energia motor 1} 94.52749840768226 
+Time : 1508858978580 SensorRand{id=SensorRand, name=energia motor 1} 10.36985662694243 
+Time : 1508858980584 SensorRand{id=SensorRand, name=energia motor 1} 1.0324744620223054 
+Time : 1508858982587 SensorRand{id=SensorRand, name=energia motor 1} 10.463360184019464 
+Time : 1508858984589 SensorRand{id=SensorRand, name=energia motor 1} 21.995030190014724 
+Time : 1508858986592 SensorRand{id=SensorRand, name=energia motor 1} 33.92106208444956 
+Time : 1508858988593 SensorRand{id=SensorRand, name=energia motor 1} 27.71805493856809 
+ 
+ 

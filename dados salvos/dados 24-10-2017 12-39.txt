@@ -1,0 +1,32 @@
+Time : 1508855961527 SensorRand{id=null, name=null} 4.750062343284538 
+Time : 1508855963534 SensorRand{id=null, name=null} 13.58024992736571 
+Time : 1508855965556 SensorRand{id=null, name=null} 18.478227575396403 
+Time : 1508855968096 SensorRand{id=null, name=null} 25.99902660082526 
+Time : 1508855970111 SensorRand{id=null, name=null} 29.935362658186456 
+Time : 1508855975262 SensorRand{id=null, name=null} 40.08165171026036 
+Time : 1508855976433 SensorRand{id=null, name=null} 54.51998704125575 
+Time : 1508855977263 SensorRand{id=null, name=null} 64.7799160910928 
+Time : 1508855978443 SensorRand{id=null, name=null} 68.91320908964222 
+Time : 1508855979277 SensorRand{id=null, name=null} 86.75904724063085 
+Time : 1508855980446 SensorRand{id=null, name=null} 0.9554018172583767 
+Time : 1508855981279 SensorRand{id=null, name=null} 7.536250773790756 
+Time : 1508855982456 SensorRand{id=null, name=null} 21.648997075923297 
+Time : 1508855983294 SensorRand{id=null, name=null} 23.324276372054776 
+Time : 1508855984463 SensorRand{id=null, name=null} 33.40822892251691 
+Time : 1508855985301 SensorRand{id=null, name=null} 27.319408138697156 
+Time : 1508855986467 SensorRand{id=null, name=null} 20.148007705394956 
+Time : 1508855987305 SensorRand{id=null, name=null} 16.610236210341874 
+Time : 1508855988470 SensorRand{id=null, name=null} 16.724219265762677 
+Time : 1508855989308 SensorRand{id=null, name=null} 28.379265663513692 
+Time : 1508855990473 SensorRand{id=null, name=null} 30.829398396289115 
+Time : 1508855991310 SensorRand{id=null, name=null} 40.5260035311502 
+Time : 1508855992474 SensorRand{id=null, name=null} 57.75437670096851 
+Time : 1508855993312 SensorRand{id=null, name=null} 69.74234762812361 
+Time : 1508855994477 SensorRand{id=null, name=null} 67.4962027990144 
+Time : 1508855995315 SensorRand{id=null, name=null} 71.81656351618555 
+Time : 1508855996479 SensorRand{id=null, name=null} 74.94491505223836 
+Time : 1508855997317 SensorRand{id=null, name=null} 84.00915833346949 
+Time : 1508855998481 SensorRand{id=null, name=null} 81.9383863311435 
+Time : 1508855999319 SensorRand{id=null, name=null} 92.48185120616186 
+ 
+ 

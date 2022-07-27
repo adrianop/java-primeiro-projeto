@@ -1,0 +1,2 @@
+SensorRand{id=null, name=null} 13.870075806586897 
+

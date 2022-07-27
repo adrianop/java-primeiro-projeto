@@ -1,0 +1,31 @@
+Time : 1508777125513 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 6.097237485622232 
+Time : 1508777127520 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 11.412451876979938 
+Time : 1508777129521 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 6.6390614343473535 
+Time : 1508777132631 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 14.09370043842739 
+Time : 1508777134632 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 2.8671550943356507 
+Time : 1508777136415 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 21.36682156590384 
+Time : 1508777136633 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 36.56831262046563 
+Time : 1508777138415 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 42.499898170804514 
+Time : 1508777138895 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 55.083016274109 
+Time : 1508777140416 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 49.161279963327914 
+Time : 1508777140896 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 59.48500104095465 
+Time : 1508777142416 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 68.09776388504139 
+Time : 1508777142897 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 81.40184246195297 
+Time : 1508777144416 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 82.28081481704419 
+Time : 1508777144900 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 0.6896687456064967 
+Time : 1508777146416 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 8.268296136493552 
+Time : 1508777146901 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 15.204737052462535 
+Time : 1508777148417 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 10.438566361142417 
+Time : 1508777148902 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 26.73162180347707 
+Time : 1508777150418 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 27.31799695236323 
+Time : 1508777150903 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 38.84839557432959 
+Time : 1508777152419 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 42.62496104018458 
+Time : 1508777152904 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 27.533629190326906 
+Time : 1508777154419 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 36.908870583767765 
+Time : 1508777154904 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 54.424242007039304 
+Time : 1508777156420 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 66.45890955164725 
+Time : 1508777156905 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 67.68662638335289 
+Time : 1508777158421 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 68.64321826742028 
+Time : 1508777158905 SensorRand{id=trabalho1.SensorRand, name=consumo energia motor 1} 66.96616981427893 
+ 
+ 

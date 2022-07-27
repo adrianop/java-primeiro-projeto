@@ -1,0 +1,17 @@
+SensorRand{id=null, name=null} 9.356868636680113 
+SensorRand{id=null, name=null} 17.68581156196801 
+SensorRand{id=null, name=null} 18.371904393149876 
+SensorRand{id=null, name=null} 22.406092570992968 
+SensorRand{id=null, name=null} 29.891955354370854 
+SensorRand{id=null, name=null} 29.241261653652266 
+SensorRand{id=null, name=null} 30.361439624233462 
+SensorRand{id=null, name=null} 39.52082646312245 
+SensorRand{id=null, name=null} 48.90535796179976 
+SensorRand{id=null, name=null} 50.31998478393485 
+SensorRand{id=null, name=null} 57.81220872226962 
+SensorRand{id=null, name=null} 62.1346825752846 
+SensorRand{id=null, name=null} 69.11387263815313 
+SensorRand{id=null, name=null} 65.65860613037451 
+SensorRand{id=null, name=null} 67.40734668464067 
+SensorRand{id=null, name=null} 70.42609149707714 
+
